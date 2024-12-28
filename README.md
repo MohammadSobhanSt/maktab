@@ -1,1 +1,4 @@
-this is a project of a persian site (I don't want to say that name.)
+# Maktab
+
+**Maktab** was a bootcamp. It was for someone who wanted to find job in programming.
+
